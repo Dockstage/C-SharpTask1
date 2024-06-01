@@ -1,0 +1,1 @@
+start ./Lab1/bin/Debug/Art1.exe
